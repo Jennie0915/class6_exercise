@@ -12,15 +12,19 @@ export default function StickerGallery() {
         }}
       >
         <div>
+          Angry
           <img src="https://placecats.com/100/100" alt="Cat1" />
         </div>
         <div>
+          Cat
           <img src="https://placecats.com/100/100" alt="Cat2" />
         </div>
         <div>
+          so
           <img src="https://placecats.com/100/100" alt="Cat3" />
         </div>
         <div>
+          sute
           <img src="https://placecats.com/100/100" alt="Cat4" />
         </div>
       </div>
