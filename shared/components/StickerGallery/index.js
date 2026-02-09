@@ -1,7 +1,9 @@
 export default function StickerGallery() {
   return (
     <div>
-      <div>Angry Cat!!!!</div>
+      <div>
+        <h1>Angry Cat!!!!</h1>
+      </div>
       <div
         style={{
           display: "grid",
