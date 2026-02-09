@@ -2,5 +2,11 @@ import Image from "next/image";
 import styles from "./page.module.css";
 
 export default function Home() {
-  return <div>Welcome to my app!</div>;
+  return (
+    <div>
+      Welcome to my app!!
+      <StickerDisplay />
+      <StickerGallery />
+    </div>
+  );
 }
